@@ -1,0 +1,238 @@
+.elemento{
+    width: 100px;
+    height: 100px;
+    display: block;
+    float: left;
+    border: 3px;
+    background-color: rgba(151, 147, 128, 0.699);
+    border-radius: 15px;
+}
+.Z{
+    width: 90px;
+    height: 20px;
+    display: block;
+    float: left;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 10px;
+   
+}
+.simbolo{
+    width: 100px;
+    height: 30px;
+    display: block;
+    font-size: xx-large;
+    float: left;
+    text-align: center;
+ 
+
+}
+.titulo{
+    width: 100px;
+    height: 20px;
+   font-size: small;
+   float: left;
+   text-align: center;
+   padding-top: 10px;
+}
+.A{
+    width: 100px;
+    height: 20px;
+   font-size: small;
+   float: left;
+   text-align: center;
+}
+h1{
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(0, 0, 0);  
+}
+.tabela{
+    width: 1800px;
+    height: 800px;
+    display: block;
+    float: left;
+}
+.col1{
+width: 100px;
+height: 700px;
+display: block;
+background-color: rgb(192, 192, 165);
+border-radius: 10px;
+float: left;
+}
+.col2{
+    width: 100px;
+    height: 600px;
+    display: block;
+    background-color: rgb(255, 255, 170);
+    border-radius: 10px; 
+    float: left;
+    margin-top: 100px;
+ 
+}
+.col3{
+    width: 100px;
+    height: 200px;
+    display: block;
+    background-color: rgb(236, 191, 191);
+    border-radius: 10px;
+    float: left;
+    margin-top: 300px;
+
+    }
+    .col4{
+        width: 100px;
+        height: 400px;
+        display: block;
+        background-color: rgb(236, 191, 191);
+        border-radius: 10px;
+        float: left;
+        margin-top: 300px;
+        }
+        .col5{
+            width: 100px;
+            height: 400px;
+            display: block;
+            background-color: rgb(236, 191, 191);
+            border-radius: 10px;
+            float: left;
+            margin-top: 300px;
+            }
+            .col6{
+                width: 100px;
+                height: 400px;
+                display: block;
+                background-color: rgb(236, 191, 191);
+                border-radius: 10px;
+                float: left;
+                margin-top: 300px;
+                }
+                .col7{
+                    width: 100px;
+                    height: 400px;
+                    display: block;
+                    background-color: rgb(236, 191, 191);
+                    border-radius: 10px;
+                    float: left;
+                    margin-top: 300px;
+                    }
+                    .col8{
+                        width: 100px;
+                        height: 400px;
+                        display: block;
+                        background-color: rgb(236, 191, 191);
+                        border-radius: 10px;
+                        float: left;
+                        margin-top: 300px;
+                        }
+                        .col9{
+                            width: 100px;
+                            height: 400px;
+                            display: block;
+                            background-color: rgb(236, 191, 191);
+                            border-radius: 10px;
+                            float: left;
+                            margin-top: 300px;
+                            }
+                            .col10{
+                                width: 100px;
+                                height: 400px;
+                                display: block;
+                                background-color: rgb(236, 191, 191);
+                                border-radius: 10px;
+                                float: left;
+                                margin-top: 300px;
+                                }
+                                .col11{
+                                    width: 100px;
+                                    height: 400px;
+                                    display: block;
+                                    background-color: rgb(236, 191, 191);
+                                    border-radius: 10px;
+                                    float: left;
+                                    margin-top: 300px;
+                                    }
+                                    
+ .col12{
+   width: 100px;
+height: 400px;
+display: block;
+ background-color: rgb(236, 191, 191);
+  border-radius: 10px;
+ float: left;
+ margin-top: 300px;
+
+ }
+ .col13{
+    width: 100px;
+ height: 600px;
+ display: block;
+  background-color: rgb(192, 240, 234);
+   border-radius: 10px;
+  float: left;
+  margin-top: 100px;
+  }
+  .col14{
+    width: 100px;
+ height: 600px;
+ display: block;
+  background-color: rgb(201, 255, 185);
+   border-radius: 10px;
+  float: left;
+  margin-top: 100px;
+  }
+  .col15{
+    width: 100px;
+ height: 600px;
+ display: block;
+  background-color: rgb(146, 156, 189);
+   border-radius: 10px;
+  float: left;
+  margin-top: 100px;
+  }
+  .col16{
+    width: 100px;
+ height: 600px;
+ display: block;
+  background-color: rgb(199, 191, 236);
+   border-radius: 10px;
+  float: left;
+  margin-top: 100px;
+  }
+  .col17{
+    width: 100px;
+ height: 600px;
+ display: block;
+  background-color: rgb(236, 191, 191);
+   border-radius: 10px;
+  float: left;
+  margin-top: 100px;
+  }
+  .col18{
+    width: 100px;
+ height: 700px;
+ display: block;
+  background-color: rgb(238, 207, 173);
+   border-radius: 10px;
+  float: left;
+  }
+
+  .lin1{
+    width: 1500px;
+ height: 100px;
+ display: block;
+  background-color: rgb(238, 207, 173);
+   border-radius: 10px;
+  float: right;
+  margin-left: 300px;
+  }  
+  .lin2{
+    width: 1500px;
+ height: 100px;
+ display: block;
+  background-color: rgb(238, 207, 173);
+   border-radius: 10px;
+  float: right;
+  margin-left: 300px;
+  }  
